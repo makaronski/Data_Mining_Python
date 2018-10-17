@@ -6,3 +6,4 @@
   * First try using Random Forest Classifier - 93% accuracy. Next, I will try with a CNN for better results.
 
 ![1st](https://github.com/makaronski/Data_Mining_Python/blob/master/Kaggle/MNIST_1st.PNG)
+ 
